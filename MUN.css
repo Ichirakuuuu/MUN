@@ -8,7 +8,7 @@ html,body{
     position: relative;
 }
 body {
-   background-color: white;
+   background-image:url("dps.jpeg");
     background-size: cover;
     background-position: center center;
     display: flex;

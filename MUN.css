@@ -50,7 +50,7 @@ h1 {
 
 .Explore{
     margin-top: 30px;
-    background: transparent;
+    background-color:black;
    padding-top: 10px;
    padding-bottom: 10px;
    padding-left: 12px;
@@ -59,7 +59,7 @@ h1 {
     position: relative;
    
     top: 0.25cm;
-    color: black;
+    color: white;
     border-color: black;
     transition: 0.7s;
     font-family: Arial, Helvetica, sans-serif;
@@ -73,15 +73,15 @@ h1 {
 }
 
 .Explore:hover{
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     border: none;
     font-weight: none;
 }
 
 .Register{
     margin-top: 30px;
-    background: transparent;
+    background-color:black;
    padding-top: 10px;
    padding-bottom: 10px;
    padding-left: 12px;
@@ -90,7 +90,7 @@ h1 {
     position: relative;
     display: inline block;
     top: 0.25cm;
-    color: black;
+    color: white;
     border-color: black;
     transition: 0.7s;
     font-family: Arial, Helvetica, sans-serif;
@@ -104,8 +104,8 @@ h1 {
 }
 
 .Register:hover{
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     border: none;
 }
 
